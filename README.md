@@ -72,7 +72,7 @@ The `dt2civitai.py` script can be used in various ways:
 
 - Process an individual image:
   ```bash
-  python3 dt2civitai.py input_image output_folder
+  python3 dt2civitai.py input_image.png output_folder
   ```
 - Process a folder of images:
   ```bash
